@@ -1,7 +1,7 @@
 
 
 
-### 豆豆在這裡 ❀ 
+### **豆豆在這裡** ❀ 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" align="center" style="width: 100%" />
 </div>  
@@ -12,15 +12,15 @@
    
 
   
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Github yztutu](https://github.com/yztutu/yztutu/blob/main/README.md)  . <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>  
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning Hyperledger and Kubernetes **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about movies or anything related. <br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am currently learning [Russian](https://www.msu.ru/)  . <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning Java and Python **JavaScript/Python**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; If you have any questions, you can communicate with me. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **https://t.me/BigBaybobo**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: "I Am" is the shortest complete sentence in English. **You have to admit this**.<br>
 
 <br/>  
 
-## My dou dou  
+## **My name is Doudou** 
 <table><tr><td valign="top" width="33%">
 
 
@@ -73,9 +73,9 @@
 <br/>  
 
 
-### Vibing to : 🎧  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### **Vibing to** : 🎧  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<!--img alt="Spotify" src="<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">" href="https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp?si=4cfc22859b9646e3" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+<!--img alt="**Spotify**" src="<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">" href="https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp?si=4cfc22859b9646e3" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
 
 [![Spotify](https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp?si=d113fc3d764e4318)](https://open.spotify.com/user/td13a04vzztidhc5e48e779ly?si=c1ecb8c3e8ba4891) <br>
 
