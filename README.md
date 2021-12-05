@@ -14,7 +14,7 @@
    
 
   
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am currently learning [Russian](https://www.msu.ru/)  . <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>  
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am currently learning [Russian](https://www.msu.ru/)  . <img width="15%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif?raw=true" /><br>  
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning Java and Python **JavaScript/Python**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; If you have any questions, you can communicate with me. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **https://t.me/BigBaybobo**<br>
@@ -72,10 +72,13 @@
 <div align="center" >
   
 <a  href="https://github.com/yztutu">
-  
-![ yztutu 的 github stats ](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yztutu)
+<td align="center">
  
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yztutu&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/yztutu" />
+![Anurag's GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yztutu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ 
+
+
 
 </a>
 
