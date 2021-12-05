@@ -74,8 +74,7 @@
 <a  href="https://github.com/yztutu">
 <td align="center">
  
-![Anurag's GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yztutu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yztutu)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  
 
 
