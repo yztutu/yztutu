@@ -49,7 +49,7 @@
 
 </div>
 <div align="center">
-<h3>Other Platforms</h3>
+ <h3>Other Platforms</h3>
     <a href="https://www.linkedin.com/in/adityabisoi/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@adityabisoi"><img
