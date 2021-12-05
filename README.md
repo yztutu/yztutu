@@ -1,6 +1,8 @@
 
 
 
+<div align="center">
+ 
 ### **豆豆在這裡** ❀ 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" align="center" style="width: 100%" />
@@ -71,7 +73,7 @@
   
 <a  href="https://github.com/yztutu">
   
-<img alt="yyztutu's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=yztutu&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/yztutu" />
+![ yztutu 的 github stats ](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yztutu)
  
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yztutu&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/yztutu" />
 
@@ -88,5 +90,7 @@
 <div align="center">Generated using <a href="https://t.me/BigBaybobo" target="_blank">Telegram</a></div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=yztutu&&style=plastic" align="center" />
+
+ ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+ 
 </div>  
