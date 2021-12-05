@@ -2,9 +2,8 @@
 
 
 <div align="center">
- <hr></hr>
-### **豆豆在這裡** ❀ 
-<hr></hr>
+
+<img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="120"> **豆豆在這裡** ❀ <img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="120"> 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" align="center" style="width: 100%" />
 </div>  
