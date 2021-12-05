@@ -2,8 +2,9 @@
 
 
 <div align="center">
- 
+ <hr></hr>
 ### **豆豆在這裡** ❀ 
+<hr></hr>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" align="center" style="width: 100%" />
 </div>  
@@ -68,7 +69,7 @@
 
 
 <br/>  
-<hr></hr>
+
 <div align="center" >
   
 <a  href="https://github.com/yztutu">
@@ -81,7 +82,7 @@
 
 </a>
 
-<hr></hr>
+
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
