@@ -14,7 +14,7 @@
    
 
   
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am currently learning [Russian](https://www.msu.ru/)  . <img width="15%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif?raw=true" /><br>  
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am currently learning [Russian](https://www.msu.ru/)  . <img width="15%" align="right" alt="Github Image" src="https://github.githubassets.com/images/mona-loading-default.gif?raw=true" /><br>  
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning Java and Python **JavaScript/Python**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; If you have any questions, you can communicate with me. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **https://t.me/BigBaybobo**<br>
