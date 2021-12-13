@@ -10,7 +10,8 @@
 
  
 
-### <div align="center">I'm doudou, a full-time full-stack freelance developer 👩 working remotely since 2021 🚀</div>  
+### <div align="center"> I'm doudou, a girl studying abroad in Russia like language programming 👩 
+### <div align="center"> I have been in touch with computers since 2008 🚀</div>   
    
 
   
