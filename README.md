@@ -11,7 +11,7 @@
  
 
 ### <div align="center"> I'm doudou, a girl studying abroad in Russia like language programming 👩🏻‍🔬 
-### <div align="center"> I have been in touch with computers since 2008 💎</div>   
+### <div align="center"> I have been in touch with computers since 2018 💎</div>   
    
 
   
