@@ -90,7 +90,7 @@
 </div>
 
 
-<div align="center">Generated using <a href="https://t.me/BigBaybobo" target="_blank">Telegram</a></div>
+<div align="center">Generated using <a href="https://t.me/Doodles_LLC" target="_blank">Telegram</a></div>
 
 <div align="center">
 
