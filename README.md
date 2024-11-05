@@ -6,17 +6,22 @@
 
 <img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" width="150" style="border-radius: 50%; border: 3px solid #eaeaea; margin-top: 10px;">
 
----
-
 **一个在俄罗斯留学的编程爱好者，喜欢编程和技术学习！**
-
-自2018年开始接触计算机，目前专注于学习Java、Python和JavaScript等编程语言。同时也在探索Web开发、React、Django等技术栈。希望通过编程将更多的想法和创意变为现实。
 
 </div>
 
 ---
 
+### 🧑‍💻 关于我
+- 💻 专注领域：Java、Python、JavaScript等编程语言
+- 🌐 兴趣：Web开发、React、Django
+- 📈 目标：通过编程将更多的创意变成现实
+- 🌍 目前：在俄罗斯攻读编程相关课程
+
+---
+
 ### 🚀 技术栈
+
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?&style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3.9-blue?&style=for-the-badge&logo=python&logoColor=white" />
@@ -44,30 +49,6 @@
 
 ---
 
-### 📫 联系我
-
-- [LinkedIn](https://www.linkedin.com/in/adityabisoi/)
-- [Medium](https://medium.com/@adityabisoi)
-- [GitLab](https://gitlab.com/adityabisoi)
-- [Telegram](https://t.me/Doodles_LLC)
-
----
-
-### 🌟 项目精选
-
-> **精选一些我的代表性项目，展示在GitHub上完成的主要成就和工作。**
-
-- [📌 项目名称 1](https://github.com/your-project-link)  
-  项目描述，简要介绍项目的功能和技术栈。
-  
-- [📌 项目名称 2](https://github.com/your-project-link)  
-  项目描述，简要介绍项目的功能和技术栈。
-
-- [📌 项目名称 3](https://github.com/your-project-link)  
-  项目描述，简要介绍项目的功能和技术栈。
-
----
-
 ### 🏆 成就与奖项
 
 <div align="center">
@@ -78,9 +59,35 @@
 
 ---
 
+### 🌟 项目精选
+
+> **精选我的代表性项目，展示在GitHub上的主要成就和工作。**
+
+- [📌 项目名称 1](https://github.com/your-project-link)  
+  *项目描述：* 简要介绍项目的功能和技术栈。
+  
+- [📌 项目名称 2](https://github.com/your-project-link)  
+  *项目描述：* 简要介绍项目的功能和技术栈。
+
+- [📌 项目名称 3](https://github.com/your-project-link)  
+  *项目描述：* 简要介绍项目的功能和技术栈。
+
+---
+
+### 🌐 联系我
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/adityabisoi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://medium.com/@adityabisoi"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://gitlab.com/adityabisoi"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+    <a href="https://t.me/Doodles_LLC"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+---
+
 <div align="center">
 
-> “I Am” 是英语中最短的完整句子，但编程中的精简代码往往效果深远。 
+> “I Am” 是英语中最短的完整句子，但编程中的精简代码往往能产生最深远的效果。
 
 ---
 
