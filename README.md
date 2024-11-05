@@ -12,16 +12,6 @@
 
 ---
 
-### ⏰ 实时时间
-
-<div align="center">
-  
-![time](https://img.shields.io/badge/%F0%9F%95%93%20Current%20Time%20-CURRENT_TIME_HERE-brightgreen?style=for-the-badge)
-
-</div>
-
----
-
 ### 🧑‍💻 关于我
 - 💻 专注领域：Java、Python、JavaScript等编程语言
 - 🌐 兴趣：Web开发、React、Django
@@ -59,6 +49,16 @@
 
 ---
 
+### 🏆 成就与奖项
+
+<div align="center">
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yztutu&theme=onedark&row=1&column=6)
+
+</div>
+
+---
+
 ### 🌟 项目精选
 
 > **精选我的代表性项目，展示在GitHub上的主要成就和工作。**
@@ -74,12 +74,20 @@
 
 ---
 
-### 💡 小彩蛋：自动生成代码
+### 🌐 联系我
+
+<div align="center">
+    <a href="https://t.me/Doodles_LLC"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+---
 
 <div align="center">
 
-```python
-# 👋 Hello, World!
-def greet():
-    print("你好, 世界!")
-greet()
+> “I Am” 是英语中最短的完整句子，但编程中的精简代码往往能产生最深远的效果。
+
+---
+
+© 2021 GitHub, DouDou  
+
+</div>
