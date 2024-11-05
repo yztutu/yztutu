@@ -34,10 +34,12 @@
 ### 📈 GitHub 统计
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yztutu&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yztutu&layout=compact&hide_border=true&theme=radical)
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yztutu&show_icons=true&hide_border=true&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yztutu&layout=compact&hide_border=true&theme=radical" /></td>
+  </tr>
+</table>
 </div>
 
 ---
