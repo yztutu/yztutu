@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="120"> **欢迎来到我的GitHub主页** <img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="120"> 
+
+# 你好，我是豆豆 👩🏻‍💻
+
+<img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" width="200" style="border-radius: 50%; border: 3px solid #eaeaea; margin-top: 10px;">
 
 ---
 
-### 🌸 你好！我是豆豆，留学于俄罗斯的编程爱好者 👩🏻‍🔬  
-自2018年开始接触计算机，目前主修语言编程，持续学习Java、Python、JavaScript等技术。
+**一个在俄罗斯留学的编程爱好者，喜欢编程和技术学习！**
 
----
-
-- 🔎 正在学习俄语 [MSU](https://www.msu.ru/)
-- 💻 专注学习：Java 和 Python
-- 📩 欢迎联系我：通过 [Telegram](https://t.me/Doodles_LLC) 获取帮助或交流
-- 🌱 兴趣爱好：探索新的技术和项目，享受编程带来的成就感
+自2018年开始接触计算机，目前专注于学习Java、Python和JavaScript等编程语言。同时也在探索Web开发、React、Django等技术栈。希望通过编程将更多的想法和创意变为现实。
 
 ---
 
@@ -43,23 +41,31 @@
 
 ---
 
-### 🌐 其他平台
+### 🌐 社交媒体
 
 <div align="center">
     <a href="https://www.linkedin.com/in/adityabisoi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@adityabisoi"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://gitlab.com/adityabisoi/"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-</div>
-
-<div align="center">
-    © 2021 GitHub, DouDou
+    <a href="https://t.me/Doodles_LLC"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 ---
 
-### 🐾 动态
+### 💬 一点小趣事
+
+> **“I Am”** 是英语中最短的完整句子，但编程中最短的有效代码往往能引发最深刻的效果。  
+
+---
 
 <div align="center">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="200" />
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="150" />
     <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" />
+</div>
+
+---
+
+<div align="center">
+    © 2021 GitHub, DouDou  
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 </div>
