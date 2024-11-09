@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="180">
 
 # 你好，我是yztutu 👩🏻‍💻
 
