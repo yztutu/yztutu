@@ -2,11 +2,9 @@
 
 <img src="https://media.giphy.com/media/oebD5alsVBFKg/giphy.gif" width="80">
 
-# 你好，我是豆豆 👩🏻‍💻
+# 你好，我是yztutu 👩🏻‍💻
 
-<img src="https://user-images.githubusercontent.com/78296391/143043915-ad29ed27-54f8-42c0-a0f2-3bd233f63ae4.jpeg" width="150" style="border-radius: 50%; border: 3px solid #eaeaea; margin-top: 10px;">
-
-**一个在俄罗斯留学的编程爱好者，喜欢编程和技术学习！**
+<img src="https://ice.frostsky.com/2024/11/09/6784f9f78d23d96798a194b8883d24ef.png" width="1080" style="border-radius: 100%; border: 3px solid #eaeaea; margin-top: 10px;">
 
 </div>
 
@@ -59,21 +57,6 @@
 
 ---
 
-### 🌟 项目精选
-
-> **精选我的代表性项目，展示在GitHub上的主要成就和工作。**
-
-- [📌 项目名称 1](https://github.com/your-project-link)  
-  *项目描述：* 简要介绍项目的功能和技术栈。
-  
-- [📌 项目名称 2](https://github.com/your-project-link)  
-  *项目描述：* 简要介绍项目的功能和技术栈。
-
-- [📌 项目名称 3](https://github.com/your-project-link)  
-  *项目描述：* 简要介绍项目的功能和技术栈。
-
----
-
 ### 🌐 联系我
 
 <div align="center">
@@ -88,6 +71,6 @@
 
 ---
 
-© 2021 GitHub, DouDou  
+© 2024 GitHub, Yztutu 
 
 </div>
