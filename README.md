@@ -46,6 +46,6 @@
 - [jiaoben](https://github.com/yztutu/jiaoben) — 自己攒的脚本仓库，啥都有点
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yztutu&color=36BCF7&style=flat&label=%E6%9D%A5%E8%BF%87%E7%9A%84%E4%BA%BA" alt="visitors" /><br/>
+  <img src="https://count.getloli.com/get/@yztutu" alt="visitors" /><br/>
   <sub><i>One commit a day keeps your girlfriend away.</i></sub>
 </p>
