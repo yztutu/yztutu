@@ -37,6 +37,9 @@
 | [微博热搜](https://github.com/yztutu/weibo-trending-hot-search) | 每小时存档微博热搜榜 | ![stars](https://img.shields.io/github/stars/yztutu/weibo-trending-hot-search?style=social) |
 | [auto-green](https://github.com/yztutu/auto-green) | 每天自动提交，主页常绿 | 私有 · 闷声干活 |
 | [NodeSeek-Signin](https://github.com/yztutu/NodeSeek-Signin) | NodeSeek 论坛自动签到 | 在青龙里服役中 |
+| [今日热榜](https://github.com/yztutu/today-hot) | 全网热榜聚合，每小时自动更新 | ![stars](https://img.shields.io/github/stars/yztutu/today-hot?style=social) |
+| [每日科技早报](https://github.com/yztutu/morning-news) | 要闻+科技+GitHub热门，每天自动更新 | ![stars](https://img.shields.io/github/stars/yztutu/morning-news?style=social) |
+| [GitHub中文热门日报](https://github.com/yztutu/github-cn-trending) | 每天追踪热门榜上的中文项目 | ![stars](https://img.shields.io/github/stars/yztutu/github-cn-trending?style=social) |
 
 > ⚠️ 舰队最近被 GitHub 误锁了账号（账单页明明干干净净），申诉工单已提交，解锁后全员复活。
 
