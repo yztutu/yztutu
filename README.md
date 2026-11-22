@@ -8,7 +8,7 @@
 ## 🏆 荣誉柜
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐_Starstruck-总星_49-ffd700?style=for-the-badge" alt="Starstruck" />
+  <img src="https://img.shields.io/badge/⭐_Starstruck-已达成-ffd700?style=for-the-badge" alt="Starstruck" />
   <img src="https://img.shields.io/badge/⚡_Quickdraw-已达成-36BCF7?style=for-the-badge" alt="Quickdraw" />
   <img src="https://img.shields.io/badge/🦈_Pull_Shark-已达成-9e6bff?style=for-the-badge" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-已达成-ff7eb6?style=for-the-badge" alt="Pair Extraordinaire" />
