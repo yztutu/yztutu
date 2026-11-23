@@ -1,17 +1,17 @@
 ![yztutu](assets/banner.webp)
 
 <p align="center">
-  <i>让机器人替我干活，我负责躺平。</i><br/>
+  <i>业余时间折腾服务器，把喜欢的东西慢慢存下来。</i><br/>
   <sub>服务器 · 自动化 · 热搜存档 · 博客 <a href="https://tyoo.top">tyoo.top</a></sub>
 </p>
+
+你好，我是 yztutu，人在哈尔滨。平时喜欢捣鼓服务器和各种自动化脚本，维护着几个长期更新的数据存档项目，从 2021 年坚持到现在，也给一些开源项目提过改进和修复。
 
 ## 🏆 荣誉柜
 
 <p align="center">
   <img src="https://img.shields.io/badge/⭐_Starstruck-已达成-ffd700?style=for-the-badge" alt="Starstruck" />
   <img src="https://img.shields.io/badge/⚡_Quickdraw-已达成-36BCF7?style=for-the-badge" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-已达成-9e6bff?style=for-the-badge" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-已达成-ff7eb6?style=for-the-badge" alt="Pair Extraordinaire" />
   <img src="https://img.shields.io/badge/🏅_Developer_Program-成员-2ea44f?style=for-the-badge" alt="Developer Program" />
 </p>
 
@@ -26,26 +26,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yztutu&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
-## 🤖 机器人舰队
+## 📚 我在维护的项目
 
-不用睡觉的员工们，每小时替我把互联网的热闹存下来：
+几个长期存档，每小时更新一次，方便日后回看和查资料：
 
-| 机器人 | 岗位 | 战绩 |
-| --- | --- | --- |
-| [知乎热门话题](https://github.com/yztutu/zhihu-trending-hot-questions) | 每小时存档知乎话题榜 | ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-hot-questions?style=social) |
-| [知乎热搜](https://github.com/yztutu/zhihu-trending-top-search) | 每小时存档知乎热搜榜 | ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-top-search?style=social) |
-| [微博热搜](https://github.com/yztutu/weibo-trending-hot-search) | 每小时存档微博热搜榜 | ![stars](https://img.shields.io/github/stars/yztutu/weibo-trending-hot-search?style=social) |
-| [auto-green](https://github.com/yztutu/auto-green) | 每天自动提交，主页常绿 | 私有 · 闷声干活 |
-| [NodeSeek-Signin](https://github.com/yztutu/NodeSeek-Signin) | NodeSeek 论坛自动签到 | 在青龙里服役中 |
-| [今日热榜](https://github.com/yztutu/today-hot) | 全网热榜聚合，每小时自动更新 | ![stars](https://img.shields.io/github/stars/yztutu/today-hot?style=social) |
-| [每日科技早报](https://github.com/yztutu/morning-news) | 要闻+科技+GitHub热门，每天自动更新 | ![stars](https://img.shields.io/github/stars/yztutu/morning-news?style=social) |
-| [GitHub中文热门日报](https://github.com/yztutu/github-cn-trending) | 每天追踪热门榜上的中文项目 | ![stars](https://img.shields.io/github/stars/yztutu/github-cn-trending?style=social) |
-
-> ⚠️ 舰队最近被 GitHub 误锁了账号（账单页明明干干净净），申诉工单已提交，解锁后全员复活。
+| 项目 | 介绍 |
+| --- | --- |
+| [知乎热门话题](https://github.com/yztutu/zhihu-trending-hot-questions) | 知乎热门话题榜存档，从 2021 年更新至今 ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-hot-questions?style=social) |
+| [知乎热搜](https://github.com/yztutu/zhihu-trending-top-search) | 知乎热搜榜存档 ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-top-search?style=social) |
+| [微博热搜](https://github.com/yztutu/weibo-trending-hot-search) | 微博热搜榜存档 ![stars](https://img.shields.io/github/stars/yztutu/weibo-trending-hot-search?style=social) |
+| [今日热榜](https://github.com/yztutu/today-hot) | 微博、知乎、B站等五家热榜聚合到一页，每小时更新 ![stars](https://img.shields.io/github/stars/yztutu/today-hot?style=social) |
+| [每日科技早报](https://github.com/yztutu/morning-news) | 每天一份：要闻、科技新闻和 GitHub 热门项目 ![stars](https://img.shields.io/github/stars/yztutu/morning-news?style=social) |
+| [GitHub中文热门日报](https://github.com/yztutu/github-cn-trending) | 每天追踪热门榜上的中文项目，附简短点评 ![stars](https://img.shields.io/github/stars/yztutu/github-cn-trending?style=social) |
 
 ## 🛠 工具箱
 
-- [UptimeFlare](https://github.com/yztutu/UptimeFlare) — 网站在线状态监控，盯着我的小站们别躺平
+- [UptimeFlare](https://github.com/yztutu/UptimeFlare) — 网站在线状态监控，盯着我的几个小站
 - [jiaoben](https://github.com/yztutu/jiaoben) — 自己攒的脚本仓库，啥都有点
 
 <p align="center">
