@@ -1,25 +1,25 @@
 ![yztutu](assets/banner.webp)
 
 <p align="center">
-  <i>业余时间折腾服务器，把喜欢的东西慢慢存下来。</i><br/>
-  <sub>服务器 · 自动化 · 热搜存档 · 博客 <a href="https://tyoo.top">tyoo.top</a></sub>
+  <i>Tinkering with servers in my spare time, archiving the things I love, one day at a time.</i><br/>
+  <sub>Servers · Automation · Trending archives · Blog <a href="https://tyoo.top">tyoo.top</a></sub>
 </p>
 
-你好，我是 yztutu。平时喜欢捣鼓服务器和各种自动化脚本，维护着几个长期更新的数据存档项目，从 2021 年坚持到现在，也给开源项目提过改进和修复，其中 6 个已被合并。
+Hi, I'm yztutu. I spend my spare time tinkering with servers and automation scripts. I maintain several long-running data archive projects — updated hourly since 2021 — and I contribute fixes and improvements to open source, with merged PRs along the way. Lately I've been building small, sharp tools like [server-doctor](https://github.com/yztutu/server-doctor) and [ai-doctor](https://github.com/yztutu/ai-doctor).
 
-## 🏆 荣誉柜
+## 🏆 Trophy Cabinet
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐_Starstruck-已达成-ffd700?style=for-the-badge" alt="Starstruck" />
-  <img src="https://img.shields.io/badge/⚡_Quickdraw-已达成-36BCF7?style=for-the-badge" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-金档_x4-6f42c1?style=for-the-badge" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/😎_YOLO-已达成-ff6f61?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/⭐_Starstruck-Earned-ffd700?style=for-the-badge" alt="Starstruck" />
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-36BCF7?style=for-the-badge" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Gold_x4-6f42c1?style=for-the-badge" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/😎_YOLO-Earned-ff6f61?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-x2-8957e5?style=for-the-badge" alt="Galaxy Brain" />
-  <img src="https://img.shields.io/badge/🫛_Pair_Extraordinaire-已达成-2ea44f?style=for-the-badge" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/🏅_Developer_Program-成员-2ea44f?style=for-the-badge" alt="Developer Program" />
+  <img src="https://img.shields.io/badge/🫛_Pair_Extraordinaire-Earned-2ea44f?style=for-the-badge" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/🏅_Developer_Program-Member-2ea44f?style=for-the-badge" alt="Developer Program" />
 </p>
 
-## 📊 数据面板
+## 📊 Dashboard
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yztutu&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
@@ -30,23 +30,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yztutu&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
-## 📚 我在维护的项目
+## 📚 Projects I Maintain
 
-几个长期存档，每小时更新一次，方便日后回看和查资料：
+Long-running archives, updated hourly since 2021:
 
-| 项目 | 介绍 |
+| Project | About |
 | --- | --- |
-| [知乎热门话题](https://github.com/yztutu/zhihu-trending-hot-questions) | 知乎热门话题榜存档，从 2021 年更新至今 ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-hot-questions?style=social) |
-| [知乎热搜](https://github.com/yztutu/zhihu-trending-top-search) | 知乎热搜榜存档 ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-top-search?style=social) |
-| [微博热搜](https://github.com/yztutu/weibo-trending-hot-search) | 微博热搜榜存档 ![stars](https://img.shields.io/github/stars/yztutu/weibo-trending-hot-search?style=social) |
-| [今日热榜](https://github.com/yztutu/today-hot) | 微博、知乎、B站等五家热榜聚合到一页，每小时更新 ![stars](https://img.shields.io/github/stars/yztutu/today-hot?style=social) |
-| [每日科技早报](https://github.com/yztutu/morning-news) | 每天一份：要闻、科技新闻和 GitHub 热门项目 ![stars](https://img.shields.io/github/stars/yztutu/morning-news?style=social) |
-| [GitHub中文热门日报](https://github.com/yztutu/github-cn-trending) | 每天追踪热门榜上的中文项目，附简短点评 ![stars](https://img.shields.io/github/stars/yztutu/github-cn-trending?style=social) |
+| [Zhihu Trending Topics](https://github.com/yztutu/zhihu-trending-hot-questions) | Hourly archive of Zhihu's trending topics, running since 2021 ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-hot-questions?style=social) |
+| [Zhihu Hot Search](https://github.com/yztutu/zhihu-trending-top-search) | Hourly archive of Zhihu's hot search list ![stars](https://img.shields.io/github/stars/yztutu/zhihu-trending-top-search?style=social) |
+| [Weibo Hot Search](https://github.com/yztutu/weibo-trending-hot-search) | Hourly archive of Weibo's hot search list ![stars](https://img.shields.io/github/stars/yztutu/weibo-trending-hot-search?style=social) |
+| [Today's Hot List](https://github.com/yztutu/today-hot) | Weibo, Zhihu, Bilibili and more — five trending lists on one page, updated hourly ![stars](https://img.shields.io/github/stars/yztutu/today-hot?style=social) |
+| [Daily Tech Brief](https://github.com/yztutu/morning-news) | One brief every morning: headlines, tech news and trending GitHub projects ![stars](https://img.shields.io/github/stars/yztutu/morning-news?style=social) |
+| [GitHub Chinese Trending Daily](https://github.com/yztutu/github-cn-trending) | Tracking Chinese projects on the trending list, with short notes ![stars](https://img.shields.io/github/stars/yztutu/github-cn-trending?style=social) |
 
-## 🛠 工具箱
+## 🛠 Toolbox
 
-- [UptimeFlare](https://github.com/yztutu/UptimeFlare) — 网站在线状态监控，盯着我的几个小站
-- [jiaoben](https://github.com/yztutu/jiaoben) — 自己攒的脚本仓库，啥都有点
+- [server-doctor](https://github.com/yztutu/server-doctor) — one-command server & IP health check with a 0–100 score
+- [ai-doctor](https://github.com/yztutu/ai-doctor) — one-command health check for OpenAI-compatible LLM APIs
+- [UptimeFlare](https://github.com/yztutu/UptimeFlare) — uptime monitoring for my little sites
+- [jiaoben](https://github.com/yztutu/jiaoben) — my personal script collection, a bit of everything
 
 <p align="center">
   <img src="https://count.getloli.com/get/@yztutu" alt="visitors" /><br/>
