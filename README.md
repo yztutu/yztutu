@@ -12,8 +12,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/⭐_Starstruck-已达成-ffd700?style=for-the-badge" alt="Starstruck" />
   <img src="https://img.shields.io/badge/⚡_Quickdraw-已达成-36BCF7?style=for-the-badge" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-已合并_6_个_PR-6f42c1?style=for-the-badge" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/😎_YOLO-条件已达成-ff6f61?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-金档_x4-6f42c1?style=for-the-badge" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/😎_YOLO-已达成-ff6f61?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-x2-8957e5?style=for-the-badge" alt="Galaxy Brain" />
+  <img src="https://img.shields.io/badge/🫛_Pair_Extraordinaire-已达成-2ea44f?style=for-the-badge" alt="Pair Extraordinaire" />
   <img src="https://img.shields.io/badge/🏅_Developer_Program-成员-2ea44f?style=for-the-badge" alt="Developer Program" />
 </p>
 
